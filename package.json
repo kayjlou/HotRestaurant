@@ -1,0 +1,27 @@
+{
+  "name": "hotrestaurant",
+  "version": "1.0.0",
+  "description": "restaurant waiting app",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kayjlou/HotRestaurant.git"
+  },
+  "keywords": [
+    "git",
+    "restaurant"
+  ],
+  "author": "Katie Lewis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kayjlou/HotRestaurant/issues"
+  },
+  "homepage": "https://github.com/kayjlou/HotRestaurant#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
